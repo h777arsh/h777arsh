@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @h777arsh
-- 👀 I’m interested in Mobile App development
-- 🌱 I’m currently learning flutter bloc
-- 💞️ I’m looking to collaborate on flutter project and explore more on dart
+- 👀 I’m interested in AI, ML and Python.
+- 🌱 I’m currently learning LLM Integration.
+- 💞️ I’m looking to collaborate on AI project and explore more on python and llama-index.
 - 📫 How to reach me contact@matrixhive.com
 
 <!---
